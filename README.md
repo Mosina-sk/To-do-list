@@ -72,7 +72,3 @@ Contributions are welcome! Here's the standard flow:
 4. **Commit**: `git commit -m 'feat: add some feature'`
 5. **Push**: `git push origin feature/your-feature`
 6. **Open** a pull request
-
-Please follow the existing code style and include tests for new behavior where applicable.
-
----
